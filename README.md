@@ -1,5 +1,5 @@
 # EDST: Enhanced MATLAB Framework for Dempster-Shafer Theory (DST)
-[High-level architecture of the proposed framework.](EDST/EDST.pdf)
+[High-level architecture of the proposed framework](EDST/EDST.png)
 
 ## Overview
 This repository hosts an improved MATLAB framework designed for Dempster-Shafer Theory (DST), a powerful mathematical tool for reasoning under uncertainty. The framework encompasses a collection of combination rules and utility functions tailored for performing evidence fusion and manipulation of cardinality-aware rules.
