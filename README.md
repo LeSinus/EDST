@@ -8,7 +8,7 @@ This repository hosts an improved MATLAB framework designed for Dempster-Shafer 
 
 ## Directory Structure
 
-1. **DST**: This directory holds the original DST framework developed by Arnoud Martin (http://people.irisa.fr/Arnaud.Martin/toolboxes/).
+1. **DST**: This directory holds the original DST framework developed by Arnaud Martin (http://people.irisa.fr/Arnaud.Martin/toolboxes/).
 2. **Examples**:
    - **Working Example**: This example guides users through the computation of Focal_Matrix and Conflict_Matrix, offering instructions for combining evidence using both old and new implementations of the PCR6 combination rule.
    - **Example 1**: Demonstrates evidence combination in the context of the Zadeh paradox, employing old combination rules (Smets, DS, and PCR6) and the newly optimized PCR6 rule (PCR6_Optimized).
