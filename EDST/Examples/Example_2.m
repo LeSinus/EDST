@@ -38,7 +38,7 @@ for i=2:1:Max_theta-1
       PCR6_time=[ PCR6_time; Theta  Execution_time(1) ];
       PCR6_optimized_time=[ PCR6_optimized_time;Theta  Execution_time(2) ];
                 
-    masse_m1(2^(i+1)-1)=0;
+    mass_m1(2^(i+1)-1)=0;
 end
 
 figure;
